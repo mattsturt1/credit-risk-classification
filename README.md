@@ -34,10 +34,10 @@ the variables that should be removed are:
 Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-I Used 16 and 16 because a) the evaluation seemed to best at this number and b), previoud similar exercises hovered around here, so this was a solid basline.
+-I Used 16 and 16 because a) the evaluation seemed to best at this number and b), previoud similar exercises hovered around here, so this was a solid basline.
 Were you able to achieve the target model performance?
-Unfortunately not
+-Unfortunately not
 What steps did you take in your attempts to increase model performance?
-changing nodes and layer numbers. This combo is the best reaching about 74% (threshold is 75%).
+-changing nodes and layer numbers. This combo is the best reaching about 74% (threshold is 75%).
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-Overall, the results show that the listed predictors were not quite able to hit the 75% accuracy threshold. WHile it is close, different models such as RandomForest could be used to get higher results.
+-Overall, the results show that the listed predictors were not quite able to hit the 75% accuracy threshold. WHile it is close, different models such as RandomForest could be used to get higher results.
